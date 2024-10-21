@@ -43,7 +43,7 @@ function App() {
   return (
    <>
     {/* <Router> */}
-    <Navbar title="My App" mode={mode} toggleMode={toggleMode}/>
+    <Navbar title="Text Utils" mode={mode} toggleMode={toggleMode}/>
     
     <div className="container my 3">
     {/* <Switch>
